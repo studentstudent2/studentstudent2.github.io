@@ -1,0 +1,37 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+#logo {
+    background-image: url("../img/Beach-Activities_HEADER_Sunset.jpg");
+    background-size: cover;
+    border-radius: 0px;
+    /* padding-left: 25%; */
+}
+
+.logo_container {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    padding: 20px 50px;
+}
+
+.logo_text {
+    font-family: "Arial";
+    color: whitesmoke;
+    text-shadow: 0px 0px 10px dodgerblue;
+}
